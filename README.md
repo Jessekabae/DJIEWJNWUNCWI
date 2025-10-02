@@ -92,7 +92,7 @@
     </div>
 
     <div class="fact-card">
-      <img src="https://tse3.mm.bing.net/th/id/OIP.HDISvDycQrp9g-iHQJBTiwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" alt="December Birthday" class="fact-image">
+      <img src="https://tse3.mm.bing.net/th/id/OIP.HDISvDycQrp9g-iHQJBTiwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3y" alt="December Birthday" class="fact-image">
       <div class="fact-content">
         <h2>🎄 December Baby</h2>
         <p>My birthday is in December, so I get double the celebration!</p>
@@ -114,3 +114,5 @@
 
 </body>
 </html>
+
+
